@@ -1,0 +1,511 @@
+fileFormatVersion: 2
+guid: 12380bf7ab91c1242aaa7c119d4217a7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3667266655698593286
+    second: zombie5_Attack_0
+  - first:
+      213: -6365203075818306459
+    second: zombie5_Attack_1
+  - first:
+      213: 5166865707337039123
+    second: zombie5_Attack_2
+  - first:
+      213: 1463843892404447856
+    second: zombie5_Attack_3
+  - first:
+      213: -6663023860112608646
+    second: zombie5_Attack_4
+  - first:
+      213: 4490361325990249458
+    second: zombie5_Attack_5
+  - first:
+      213: -4870664422735713079
+    second: zombie5_Attack_6
+  - first:
+      213: 623236226222595880
+    second: zombie5_Attack_7
+  - first:
+      213: 6919055383437033374
+    second: zombie5_Attack_8
+  - first:
+      213: -2079801681862383905
+    second: zombie5_Attack_9
+  - first:
+      213: -7672992952216639303
+    second: zombie5_Attack_10
+  - first:
+      213: 5163089373208260163
+    second: zombie5_Attack_11
+  - first:
+      213: 919241770909779693
+    second: zombie5_Attack_12
+  - first:
+      213: -6462377762244985982
+    second: zombie5_Attack_13
+  - first:
+      213: -370521134788048732
+    second: zombie5_Attack_14
+  - first:
+      213: -5631166085946742036
+    second: zombie5_Attack_15
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zombie5_Attack_0
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 2032
+        width: 1150
+        height: 807
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986087abe482f394ea4e1e1f02cdbc89
+      internalID: 3667266655698593286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie5_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 1867
+        width: 1211
+        height: 981
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e97853ea7db7644a6557e6447540bc
+      internalID: -6365203075818306459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie5_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 2787
+        y: 1902
+        width: 681
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8aba68fa12c13f42ae3cc46c902480d
+      internalID: 5166865707337039123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie5_Attack_3
+      rect:
+        serializedVersion: 2
+        x: 3567
+        y: 2090
+        width: 660
+        height: 712
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0234da3d7b7cfbd48a7549e230648150
+      internalID: 1463843892404447856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie5_Attack_4
+      rect:
+        serializedVersion: 2
+        x: 4303
+        y: 2090
+        width: 694
+        height: 708
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152cb7bd469f56849a5bb64214668064
+      internalID: -6663023860112608646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie5_Attack_5
+      rect:
+        serializedVersion: 2
+        x: 5076
+        y: 2093
+        width: 742
+        height: 688
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4458c5c5806c534f88085599c7220db
+      internalID: 4490361325990249458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie5_Attack_6
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1177
+        width: 961
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb512fd8b255e944b6a1eb8fa144e7f
+      internalID: -4870664422735713079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie5_Attack_7
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1234
+        width: 1259
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911fbec0262339d4f9c0ed9f3004f476
+      internalID: 623236226222595880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie5_Attack_8
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1241
+        width: 1303
+        height: 629
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318e67301b7fbfe45a96916884c5de26
+      internalID: 6919055383437033374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie5_Attack_9
+      rect:
+        serializedVersion: 2
+        x: 4077
+        y: 991
+        width: 875
+        height: 941
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24bb571c539b7214898818233c3519f4
+      internalID: -2079801681862383905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie5_Attack_10
+      rect:
+        serializedVersion: 2
+        x: 5031
+        y: 1306
+        width: 667
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a330cba77df521b438c11f12b593f04e
+      internalID: -7672992952216639303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie5_Attack_11
+      rect:
+        serializedVersion: 2
+        x: 5770
+        y: 1347
+        width: 674
+        height: 537
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ab7b1198ee6f4448a3e91a8d4003cd
+      internalID: 5163089373208260163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie5_Attack_12
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 419
+        width: 735
+        height: 634
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0823f082740a6438f26c7ad9989c62
+      internalID: 919241770909779693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie5_Attack_13
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 142
+        width: 903
+        height: 911
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a0739e21010e249a6c557079089a15
+      internalID: -6462377762244985982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie5_Attack_14
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 135
+        width: 1064
+        height: 918
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec8f0c2d54fa6346815cff77bba5330
+      internalID: -370521134788048732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie5_Attack_15
+      rect:
+        serializedVersion: 2
+        x: 3515
+        y: 91
+        width: 1109
+        height: 866
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51d2d0cb9103884ea97272a763d6e87
+      internalID: -5631166085946742036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

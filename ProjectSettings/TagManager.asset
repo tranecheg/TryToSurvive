@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Shootable
+  - weapons
+  - Joystick
+  - Bullet
+  - landMine
+  - HeroBullet
+  - Enemy
+  - DeadZombie
+  - health
+  - money
+  - box
+  - speedUp
+  - zombieAttack
+  - Flame
+  - freeze
+  - barricade
+  - turret
+  - zombieAttack2
+  - zombieAttack3
+  - zombieAttack4
+  - zombieAttack5
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Lighting
+  - Ground
+  - Postprocessing
+  - flame
+  - loot
+  - Barricade
+  - enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Fire
+    uniqueID: 3804908061
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

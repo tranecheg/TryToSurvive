@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f3758f8f58fdef43803eb9be1df0608, type: 3}
+  m_Name: PhotonServerSettings
+  m_EditorClassIdentifier: 
+  AppSettings:
+    AppIdRealtime: a95522fd-824a-46c6-84b9-3814bc75eeba
+    AppIdChat: 166866bd-3f3b-4cd8-ab19-06edcba41ec3
+    AppIdVoice: 
+    AppVersion: 
+    UseNameServer: 1
+    FixedRegion: 
+    Server: 
+    Port: 0
+    Protocol: 0
+    EnableLobbyStatistics: 0
+    NetworkLogging: 1
+  PunLogging: 0
+  EnableSupportLogger: 0
+  RunInBackground: 1
+  StartInOfflineMode: 0
+  RpcList:
+  - AKShoot
+  - ButtonDown
+  - ButtonUp
+  - BuyShotgun
+  - cam
+  - Change
+  - changeName0
+  - changeName1
+  - changeName2
+  - changeName3
+  - changeName4
+  - changeName5
+  - changeName6
+  - changeNameBullet
+  - changeNameBullet1
+  - changeNameBullet2
+  - changeNameBullet3
+  - changeNameBullet4
+  - changeNameBullet5
+  - changeNameBullet6
+  - changeWeapon
+  - changeWeapon1
+  - ClickRpc
+  - createEnemies
+  - createEnemies2
+  - createEnemies3
+  - createEnemies4
+  - createEnemies5
+  - delete
+  - Destroy
+  - destroyRocket
+  - DestroyRpc
+  - DestroySpaceship
+  - direction
+  - Fire
+  - HP
+  - moveGrenade
+  - newTest
+  - newTest2
+  - pauseOff
+  - pauseOn
+  - pistolShoot
+  - RespawnSpaceship
+  - shootFreeze
+  - shotOff
+  - shotOn
+  - sleeping
+  - sniperShoot
+  - soundPistol
+  - Stage
+  - test
+  - testMove
+  - turnFreezeGun
+  - turnSniper
+  - soundBazooka
+  - newnewTest
+  - UpdateZombieTransform
+  DisableAutoOpenWizard: 1
+  ShowSettings: 1

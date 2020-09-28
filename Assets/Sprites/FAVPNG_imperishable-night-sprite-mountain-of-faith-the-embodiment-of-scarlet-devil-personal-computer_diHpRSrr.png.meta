@@ -1,0 +1,679 @@
+fileFormatVersion: 2
+guid: dd89da47761d5a44a82f089cbbe2c718
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2531144481828824372
+    second: FAVPNG_imperishable-night-sprite-mountain-of-faith-the-embodiment-of-scarlet-devil-personal-computer_diHpRSrr_0
+  - first:
+      213: -1159528365460358891
+    second: FAVPNG_imperishable-night-sprite-mountain-of-faith-the-embodiment-of-scarlet-devil-personal-computer_diHpRSrr_1
+  - first:
+      213: -4085549766019980268
+    second: FAVPNG_imperishable-night-sprite-mountain-of-faith-the-embodiment-of-scarlet-devil-personal-computer_diHpRSrr_2
+  - first:
+      213: -8703273092085031482
+    second: FAVPNG_imperishable-night-sprite-mountain-of-faith-the-embodiment-of-scarlet-devil-personal-computer_diHpRSrr_3
+  - first:
+      213: 828903206331592311
+    second: FAVPNG_imperishable-night-sprite-mountain-of-faith-the-embodiment-of-scarlet-devil-personal-computer_diHpRSrr_4
+  - first:
+      213: -4693770066508498983
+    second: FAVPNG_imperishable-night-sprite-mountain-of-faith-the-embodiment-of-scarlet-devil-personal-computer_diHpRSrr_5
+  - first:
+      213: -79808291209467366
+    second: FAVPNG_imperishable-night-sprite-mountain-of-faith-the-embodiment-of-scarlet-devil-personal-computer_diHpRSrr_6
+  - first:
+      213: 6000964373036528137
+    second: FAVPNG_imperishable-night-sprite-mountain-of-faith-the-embodiment-of-scarlet-devil-personal-computer_diHpRSrr_7
+  - first:
+      213: -8511411808202787394
+    second: FAVPNG_imperishable-night-sprite-mountain-of-faith-the-embodiment-of-scarlet-devil-personal-computer_diHpRSrr_8
+  - first:
+      213: -6291080668877199994
+    second: FAVPNG_imperishable-night-sprite-mountain-of-faith-the-embodiment-of-scarlet-devil-personal-computer_diHpRSrr_9
+  - first:
+      213: 4936572854382914549
+    second: FAVPNG_imperishable-night-sprite-mountain-of-faith-the-embodiment-of-scarlet-devil-personal-computer_diHpRSrr_10
+  - first:
+      213: 7374184936452583391
+    second: FAVPNG_imperishable-night-sprite-mountain-of-faith-the-embodiment-of-scarlet-devil-personal-computer_diHpRSrr_11
+  - first:
+      213: -7794578397813713074
+    second: FAVPNG_imperishable-night-sprite-mountain-of-faith-the-embodiment-of-scarlet-devil-personal-computer_diHpRSrr_12
+  - first:
+      213: 7131262888057212480
+    second: FAVPNG_imperishable-night-sprite-mountain-of-faith-the-embodiment-of-scarlet-devil-personal-computer_diHpRSrr_13
+  - first:
+      213: -8688809749225397829
+    second: FAVPNG_imperishable-night-sprite-mountain-of-faith-the-embodiment-of-scarlet-devil-personal-computer_diHpRSrr_14
+  - first:
+      213: 1694134553546261065
+    second: FAVPNG_imperishable-night-sprite-mountain-of-faith-the-embodiment-of-scarlet-devil-personal-computer_diHpRSrr_15
+  - first:
+      213: -7154094399490471345
+    second: FAVPNG_imperishable-night-sprite-mountain-of-faith-the-embodiment-of-scarlet-devil-personal-computer_diHpRSrr_16
+  - first:
+      213: -1258764672999583039
+    second: FAVPNG_imperishable-night-sprite-mountain-of-faith-the-embodiment-of-scarlet-devil-personal-computer_diHpRSrr_17
+  - first:
+      213: -1701894823998709319
+    second: FAVPNG_imperishable-night-sprite-mountain-of-faith-the-embodiment-of-scarlet-devil-personal-computer_diHpRSrr_18
+  - first:
+      213: 3300380334758142274
+    second: FAVPNG_imperishable-night-sprite-mountain-of-faith-the-embodiment-of-scarlet-devil-personal-computer_diHpRSrr_19
+  - first:
+      213: 8102990585326611723
+    second: FAVPNG_imperishable-night-sprite-mountain-of-faith-the-embodiment-of-scarlet-devil-personal-computer_diHpRSrr_20
+  - first:
+      213: -8170242647440447788
+    second: FAVPNG_imperishable-night-sprite-mountain-of-faith-the-embodiment-of-scarlet-devil-personal-computer_diHpRSrr_21
+  - first:
+      213: 6321539473985579316
+    second: FAVPNG_imperishable-night-sprite-mountain-of-faith-the-embodiment-of-scarlet-devil-personal-computer_diHpRSrr_22
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FAVPNG_imperishable-night-sprite-mountain-of-faith-the-embodiment-of-scarlet-devil-personal-computer_diHpRSrr_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 370
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6713686f20f18a419aa1c79cff2b348
+      internalID: 2531144481828824372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAVPNG_imperishable-night-sprite-mountain-of-faith-the-embodiment-of-scarlet-devil-personal-computer_diHpRSrr_1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 369
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16f2448df99d61479feedff814bffe4
+      internalID: -1159528365460358891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAVPNG_imperishable-night-sprite-mountain-of-faith-the-embodiment-of-scarlet-devil-personal-computer_diHpRSrr_2
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 376
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c849e11555656b94aa3d1fa0309f8ec3
+      internalID: -4085549766019980268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAVPNG_imperishable-night-sprite-mountain-of-faith-the-embodiment-of-scarlet-devil-personal-computer_diHpRSrr_3
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 374
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed1abba6db68294eae035c8a0826417
+      internalID: -8703273092085031482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAVPNG_imperishable-night-sprite-mountain-of-faith-the-embodiment-of-scarlet-devil-personal-computer_diHpRSrr_4
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 351
+        width: 38
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751ea8ba561a2294dbd96dc1616dfc3f
+      internalID: 828903206331592311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAVPNG_imperishable-night-sprite-mountain-of-faith-the-embodiment-of-scarlet-devil-personal-computer_diHpRSrr_5
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 346
+        width: 38
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c57634f12b8e1e4b872b49f4e05fb36
+      internalID: -4693770066508498983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAVPNG_imperishable-night-sprite-mountain-of-faith-the-embodiment-of-scarlet-devil-personal-computer_diHpRSrr_6
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 364
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e92f3361ba50e4e81e4544d0565e16
+      internalID: -79808291209467366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAVPNG_imperishable-night-sprite-mountain-of-faith-the-embodiment-of-scarlet-devil-personal-computer_diHpRSrr_7
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 293
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f279192576aad2488dbc7899664ed87
+      internalID: 6000964373036528137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAVPNG_imperishable-night-sprite-mountain-of-faith-the-embodiment-of-scarlet-devil-personal-computer_diHpRSrr_8
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 287
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcee6aeea37e12d408aa5dfbf1bcba07
+      internalID: -8511411808202787394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAVPNG_imperishable-night-sprite-mountain-of-faith-the-embodiment-of-scarlet-devil-personal-computer_diHpRSrr_9
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 264
+        width: 23
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0747a56f8afb024399fc23ea9b609ba
+      internalID: -6291080668877199994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAVPNG_imperishable-night-sprite-mountain-of-faith-the-embodiment-of-scarlet-devil-personal-computer_diHpRSrr_10
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 252
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455d98e87992e7d4d8835794e00f3740
+      internalID: 4936572854382914549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAVPNG_imperishable-night-sprite-mountain-of-faith-the-embodiment-of-scarlet-devil-personal-computer_diHpRSrr_11
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 257
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32838e22d44df8f4c96396becaec1cd6
+      internalID: 7374184936452583391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAVPNG_imperishable-night-sprite-mountain-of-faith-the-embodiment-of-scarlet-devil-personal-computer_diHpRSrr_12
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 238
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630bf0df8d5e0ad49bf7e8b8b414106d
+      internalID: -7794578397813713074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAVPNG_imperishable-night-sprite-mountain-of-faith-the-embodiment-of-scarlet-devil-personal-computer_diHpRSrr_13
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 262
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf47e0e650f6d741b634d6f534a2d57
+      internalID: 7131262888057212480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAVPNG_imperishable-night-sprite-mountain-of-faith-the-embodiment-of-scarlet-devil-personal-computer_diHpRSrr_14
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 165
+        width: 47
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b47d434bd476f47baaff6a54689826
+      internalID: -8688809749225397829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAVPNG_imperishable-night-sprite-mountain-of-faith-the-embodiment-of-scarlet-devil-personal-computer_diHpRSrr_15
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 172
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f09911359ec65b468a7d51b75ed9e7f
+      internalID: 1694134553546261065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAVPNG_imperishable-night-sprite-mountain-of-faith-the-embodiment-of-scarlet-devil-personal-computer_diHpRSrr_16
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 158
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f1a7c53c312b146aa938d35f017385
+      internalID: -7154094399490471345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAVPNG_imperishable-night-sprite-mountain-of-faith-the-embodiment-of-scarlet-devil-personal-computer_diHpRSrr_17
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 170
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4e64f871658fd4cb9531f060ba193d
+      internalID: -1258764672999583039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAVPNG_imperishable-night-sprite-mountain-of-faith-the-embodiment-of-scarlet-devil-personal-computer_diHpRSrr_18
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 162
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91336a5b1f24377458cb194c055a3b05
+      internalID: -1701894823998709319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAVPNG_imperishable-night-sprite-mountain-of-faith-the-embodiment-of-scarlet-devil-personal-computer_diHpRSrr_19
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 157
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d14a16e08ec6544a1e0fa01b74f500
+      internalID: 3300380334758142274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAVPNG_imperishable-night-sprite-mountain-of-faith-the-embodiment-of-scarlet-devil-personal-computer_diHpRSrr_20
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 25
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1950ed3aeaba44d82cc4b180957a85
+      internalID: 8102990585326611723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAVPNG_imperishable-night-sprite-mountain-of-faith-the-embodiment-of-scarlet-devil-personal-computer_diHpRSrr_21
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 26
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5002044657164a141bebb90912f47d55
+      internalID: -8170242647440447788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAVPNG_imperishable-night-sprite-mountain-of-faith-the-embodiment-of-scarlet-devil-personal-computer_diHpRSrr_22
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 59
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6e55d1410f1e641ac28a2d3b09b09f
+      internalID: 6321539473985579316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 937645d4833766f4bbe53fe7b63ac28c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
